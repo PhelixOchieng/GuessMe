@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guess Me</string>
+    <string name="hint_name">Hint</string>
+    <string name="theme_name">Theme</string>
+
+    <string name="settings_name">Settings</string>
+    <string name="submit_word_name">Submit</string>
+    <string name="get_clue_name">Settings</string>
+
+    <string name="word_submit_hint">Enter Your Word Here</string>
+    <string name="next_hint">Next Hint</string>
+
+    <string name="home_btn">Home</string>
+    <string name="coins_btn">0</string>
+    <string name="level_indicator">Level 0</string>
+</resources>
